@@ -32,7 +32,7 @@ Contact us :
 
 
 
-<p class="font-weight:700;text-align:right">
+<p font-weight:700 text-align:right>
 توضیحات نصب به زبان فارسی
 </p>
 
