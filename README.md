@@ -31,7 +31,7 @@ Contact us :
 	-Instagram : rexxar.ir
 	
 <div dir="rtl">
-	<b font-size:30>توضــیحات نصـــب به زبان فارســی
+	<b sytle="font-size:50px">توضــیحات نصـــب به زبان فارســی
 	</b>
 </div>
 
