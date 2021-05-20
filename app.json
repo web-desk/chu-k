@@ -1,5 +1,5 @@
 {
-  "name": "VPS BY RixEtte",
+  "name": "Virtual Network Computing BY Rexxar ( VPS )",
   "description": "Deploy VNC to Heroku.",
   "keywords": ["VNC", "Docker"],
   "env": {
