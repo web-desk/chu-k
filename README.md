@@ -32,9 +32,9 @@ Contact us :
 
 
 
-**<div dir="rtl">
+<div dir="rtl" class="font-weight:600">
 توضیحات نصب به زبان فارسی
-</div>**
+</div>
 
 ###  ویژگی ها : 
   - ران شدن  Ubunto 18.04
