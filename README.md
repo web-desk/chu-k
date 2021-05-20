@@ -29,11 +29,10 @@ Contact us :
 	-Website : rexxar.ir
 	-Telegram : rexxar_ir
 	-Instagram : rexxar.ir
-
-<div dir:"rtl">
-<b>
-توضیحات نصب به زبان فارسی
-</b></div>
+	
+<div dir="rtl">
+متن کامنت با فرمت مارک‌داون
+</div>
 
 ###  ویژگی ها : 
   - ران شدن  Ubunto 18.04
