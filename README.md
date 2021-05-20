@@ -29,7 +29,7 @@ Contact us :
 	-Website : rexxar.ir
 	-Telegram : rexxar_ir
 	-Instagram : rexxar.ir
-	
+<br>
 <div dir="rtl">
 	<b font-size="50px">توضــیحات نصـــب به زبان فارســی
 	</b>
