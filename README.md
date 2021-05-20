@@ -31,7 +31,7 @@ Contact us :
 	-Instagram : rexxar.ir
 
 <div>
-<b  font-size:20px>
+<b>
 توضیحات نصب به زبان فارسی
 </b> </div>
 
