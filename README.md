@@ -30,7 +30,7 @@ Contact us :
 	-Telegram : rexxar_ir
 	-Instagram : rexxar.ir
 	
-<div dir="rtl" ; font-size="50px">
+<div dir="rtl" ; font-size:"50px">
 	<b>توضــیحات نصـــب به زبان فارســی
 	</b>
 </div>
