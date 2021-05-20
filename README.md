@@ -31,7 +31,8 @@ Contact us :
 	-Instagram : rexxar.ir
 	
 <div dir="rtl">
-متن کامنت با فرمت مارک‌داون
+	<b>توضیحات نصب به زبان فارسی
+	</b>
 </div>
 
 ###  ویژگی ها : 
