@@ -1,6 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # VNC Server ( Virtual Network Computing ) on Heroku
-**Description in English**
+### Description in English
 
 ### Features:
   - Running on Ubuntu 18.04 Docker Image
@@ -25,16 +25,25 @@
 
 
 Rexxar does not own these codes and is only a publisher.
-Contact us : 
-	-Website : rexxar.ir
-	-Telegram : rexxar_ir
-	-Instagram : rexxar.ir
-<br>
-<div dir="rtl">
-	<b font-size="50px">توضــیحات نصـــب به زبان فارســی
-	</b>
-</div>
 
+
+Contact us : 
+
+	Website : rexxar.ir
+	Telegram : rexxar_ir
+	Instagram : rexxar.ir
+
+
+
+
+<div dir="rtl">
+	
+	
+	
+## توضــیحات نصـــب به زبان فارســی
+	
+	
+	
 ###  ویژگی ها : 
   - ران شدن  Ubunto 18.04
 - نصب بودن  Google Chrome
@@ -44,14 +53,14 @@ Contact us :
  - مناسب برای ران کردن بات و اسکریپت های پایتونی 
 
 
-###  نصب و توسعه
+###    نصب و توسعه :
 
-#####  موارد مورد نیاز برای نصب : 
+####  موارد مورد نیاز برای نصب : 
 - داشتن GitHub رکسار یا دانلود کردن خود فایل های مربوطه از GitHub  رکسار
 - ثبتنام در سایت Heroku و داشتن یک اکانت در آن
 - داشتن اینترنت مناسب ( مخصوصا اینترنت ایران که اصلا عالیه :دی )
 
-#####  مراحل نصب و توسعه : 
+####  مراحل نصب و توسعه : 
 
 - به سایت Heroku بروید و در آن لاگین کنید .
 -  در بالای صفحه بر روی دکمه “ Deploy to heroku “ کلیک کنید .
@@ -60,9 +69,15 @@ Contact us :
 - پایان ، لذت ببرید .
 
 
-رکسار را در شبکه های مجازی دنبال کنید :
+## رکسار را در شبکه های مجازی دنبال کنید :
 
-وب سایت رسمی رکسار  : 
-Rexxar.ir
-کانال تلگرام رسمی رکسار : Rexxar_ir
-اینستاگرام رکسار : rexxar.ir
+
+	
+	وب سایت رسمی رکسار  : Rexxar.ir
+	کانال تلگرام رسمی رکسار : Rexxar_ir
+	اینستاگرام رکسار : rexxar.ir
+	
+	
+</div>
+
+
