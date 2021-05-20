@@ -32,7 +32,7 @@ Contact us :
 
 
 
-<b dir="rtl" class="font-weight:600">
+<b text-align:right>
 توضیحات نصب به زبان فارسی
 </b>
 
