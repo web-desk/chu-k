@@ -30,10 +30,10 @@ Contact us :
 	-Telegram : rexxar_ir
 	-Instagram : rexxar.ir
 
-<div direction:rtl>
+<div dir:"rtl">
 <b>
 توضیحات نصب به زبان فارسی
-</b> </div>
+</b></div>
 
 ###  ویژگی ها : 
   - ران شدن  Ubunto 18.04
