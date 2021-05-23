@@ -14,7 +14,7 @@ RUN set -ex; \
         expect \
         sudo \
         vim \
-	python3-pip
+	python3-pip \
 	vlc \
         bash \
         net-tools \
