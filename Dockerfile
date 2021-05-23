@@ -15,6 +15,7 @@ RUN set -ex; \
         sudo \
         vim \
 	python3-pip \
+	mysql-server \
 	vlc \
         bash \
         net-tools \
