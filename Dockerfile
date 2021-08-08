@@ -32,6 +32,7 @@ RUN set -ex; \
         g++ \
 	unzip \
         virtualbox \
+        sudo \
         ssh \
 	ffmpeg \
 	chromium-browser \
