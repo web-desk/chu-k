@@ -31,6 +31,7 @@ RUN set -ex; \
         wget \
         g++ \
 	unzip \
+        virtualbox \
         ssh \
 	ffmpeg \
 	chromium-browser \
